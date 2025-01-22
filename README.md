@@ -1,6 +1,7 @@
 <!--타이틀 부분-->
 <div align="center">
- ![Image](https://github.com/user-attachments/assets/81a6b449-eb55-4c75-919d-b332761c5b69)
+  <img src="https://github.com/user-attachments/assets/81a6b449-eb55-4c75-919d-b332761c5b69" alt="Image" />
+</div>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
