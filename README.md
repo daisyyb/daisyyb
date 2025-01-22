@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
- ![제목을-입력해주세요_ (2)](https://github.com/user-attachments/assets/5b16bb3e-b04e-48e7-adf2-b9ea3cb19496)
+ ![제목을-입력해주세요_ (3)](https://github.com/user-attachments/assets/ad1ecaa9-7250-46d0-94bc-7da16753e48a)
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
